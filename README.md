@@ -51,6 +51,11 @@
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sxntiBG&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sxntiBG&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -68,7 +73,8 @@
   
 </p>
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=sxntiBG&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
 <!--horizontal divider(gradiant)-->
