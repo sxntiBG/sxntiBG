@@ -1,9 +1,14 @@
 <h1 align="center">Hi! My name is Santiago Zapata</h1>
+
 ###
+
 <p align="center">I'm a software developer 👨🏻‍💻</p>
+
 ###
 
+<img src="https://raw.githubusercontent.com/SxntiBG/SxntiBG/output/snake.svg" alt="Snake animation" />
 
+###
 
 <h3 align="center">Language and tools</h3>
 
