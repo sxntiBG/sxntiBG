@@ -1,17 +1,9 @@
 <h1 align="center">Hi! My name is Santiago Zapata</h1>
-
 ###
-
 <p align="center">I'm a software developer 👨🏻‍💻</p>
-
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-###
+
 
 <h3 align="center">Language and tools</h3>
 
