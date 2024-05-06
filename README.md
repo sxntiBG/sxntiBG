@@ -1,3 +1,5 @@
+![marioBanner](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
+
 <h1 align="center">Hi! My name is Santiago Zapata</h1>
 
 ###
@@ -5,8 +7,6 @@
 <p align="center">I'm a software developer 👨🏻‍💻</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SxntiBG/SxntiBG/output/snake.svg" alt="Snake animation" />
 
 ###
 
