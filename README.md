@@ -80,6 +80,10 @@
 
 ###
 
+[![Spotify](spotify-now-playing-7sjtn2bdf-sxntibgs-projects.vercel.app)](https://open.spotify.com/user/sxnti)
+
+###
+
 <p align="center">Profile views</p>
 
 ###
