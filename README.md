@@ -80,7 +80,7 @@
 
 ###
 
-[![Spotify](spotify-now-playing-7sjtn2bdf-sxntibgs-projects.vercel.app)](https://open.spotify.com/user/sxnti)
+[![Spotify](spotify-now-playing-7sjtn2bdf-sxntibgs-projects.vercel.app)](https://open.spotify.com/user/312abse2x5bhfttqfopojmzgmyem)
 
 ###
 
