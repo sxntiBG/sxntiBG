@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/santiago-zapata-ospina-2a048624a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="78" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/Sxnti_bg" target="_blank">
+  <!--<a href="https://twitter.com/Sxnti_bg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="78" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100081330696145" target="_blank">
@@ -66,7 +66,7 @@
   </a>
   <a href="https://www.youtube.com/channel/UCf4E41R84KrLTEkYn0wL0fQ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="78" height="30" alt="youtube logo"  />
-  </a>
+  </a>-->
 </div>
 
 ###
